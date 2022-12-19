@@ -1,0 +1,3 @@
+# GitpracticeRepo
+
+echo "hello world"
